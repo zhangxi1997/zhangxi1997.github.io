@@ -22,29 +22,22 @@ The NExT-OOD-VQA dataset is built to simultaneously validate models’ generaliz
 ## NExT-OOD-VQA auto
 The NExT-OOD-VQA auto dataset is also built to simultaneously validate models’ generalization ability against the VA bias and QA bias. Different from the NExT-OOD-VQA, this dataset is larger and is constructed in an automatic manner.
 
-### Resources
-[Validation](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing) \ 
-[Test](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
+### [Resources](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
 
 ## NExT-OOD-VA
 The NExT-OOD-VA dataset is built to validate models’ generalization ability against the VA bias.
 
-### Resources
-[Validation](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing) \ 
-[Test](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
+### [Resources](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
 
 ## NExT-OOD-QA
 The NExT-OOD-QA dataset is built to validate models’ generalization ability against the QA bias.
 
-### Resources
-[Validation](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing) \ 
-[Test](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
+### [Resources](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
 
 ## Other Resources
-### Pre-extraced features
-[Video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
+
+[Pre-extracted video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
   
-### Train
 The training set of NExT-OOD is the same as NExT-QA, and can be found in [here](https://drive.google.com/file/d/1JiPkdxUZ6shGSDdK7m29BaU_hrqe1srO/view?usp=sharing).
 
 
