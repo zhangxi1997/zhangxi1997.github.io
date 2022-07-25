@@ -10,24 +10,25 @@ In recent years, multiple-choice Visual Question Answering (VQA) has become topi
 ## Resources
 
 ### NExT-OOD-VQA
-[Validation]()
+[Validation](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
 
-[Test]()
+[Test](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
+
 
 ### NExT-OOD-VQA auto
-[Validation]()
+[Validation](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
 
-[Test]()
+[Test](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
 
 ### NExT-OOD-VA
-[Validation]()
+[Validation](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
 
-[Test]()
+[Test](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
 
 ### NExT-OOD-QA
-[Validation]()
+[Validation](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
 
-[Test]()
+[Test](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
 
 ### Pre-extraced features
 [Video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
