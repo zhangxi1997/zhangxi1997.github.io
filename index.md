@@ -37,6 +37,9 @@ The NExT-OOD-QA dataset is built to validate models’ generalization ability ag
   
 The training set of NExT-OOD is the same as NExT-QA, and can be found in [here](https://drive.google.com/file/d/1JiPkdxUZ6shGSDdK7m29BaU_hrqe1srO/view?usp=sharing).
 
+## TEAM
+![img](team.png)
+
 
 
 
