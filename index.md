@@ -3,32 +3,42 @@
 In recent years, multiple-choice Visual Question Answering (VQA) has become topical and achieves great progress. However, most pioneer multiple-choice VQA models are heavily driven by statistical correlations in datasets, which cannot perform well on multimodal understanding and suffer from poor generalization. In this paper, we identify two kinds of spurious correlations, i.e., a Vision-Answer bias (VA bias) and a Question-Answer bias (QA bias). To systematically and scientifically study these biases, we construct a new benchmark NExT-OOD in OOD setting. It is built upon the NExT-QA dataset and contains three sub-datasets including NExT-OOD-VA, NExT-OOD-QA, and NExT-OOD-VQA, which are designed for the VA bias, QA bias, and VA&QA bias, respectively.
 
 
-![img](statistic.png)
+<div align=center><img src="statistic.png" width=60%/></div>
 
 
-## Resources
 
-### NExT-OOD-VQA
-[Validation](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
 
+## NExT-OOD-VQA
+The NExT-OOD-VQA dataset is built to simultaneously validate models’ generalization ability against the VA bias and QA bias.
+<div align=center><img src="distribution.png" width=80%/></div>
+
+### Resources
+[Validation](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing) \ 
 [Test](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
 
 
-### NExT-OOD-VQA auto
-[Validation](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
+## NExT-OOD-VQA auto
+The NExT-OOD-VQA auto dataset is also built to simultaneously validate models’ generalization ability against the VA bias and QA bias. Different from the NExT-OOD-VQA, this dataset is larger and is constructed in an automatic manner.
 
+### Resources
+[Validation](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing) \ 
 [Test](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
 
-### NExT-OOD-VA
-[Validation](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
+## NExT-OOD-VA
+The NExT-OOD-VA dataset is built to validate models’ generalization ability against the VA bias.
 
+### Resources
+[Validation](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing) \ 
 [Test](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
 
-### NExT-OOD-QA
-[Validation](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
+## NExT-OOD-QA
+The NExT-OOD-QA dataset is built to validate models’ generalization ability against the QA bias.
 
+### Resources
+[Validation](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing) \ 
 [Test](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
 
+## Other Resources
 ### Pre-extraced features
 [Video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
   
