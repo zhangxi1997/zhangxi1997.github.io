@@ -12,6 +12,7 @@ In recent years, multiple-choice Visual Question Answering (VQA) has become topi
 
 ## NExT-OOD-VQA
 The NExT-OOD-VQA dataset is built to simultaneously validate models’ generalization ability against the VA bias and QA bias.
+
 ![img](distribution.png)
 
 ### [Resources](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
