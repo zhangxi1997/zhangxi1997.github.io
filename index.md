@@ -32,6 +32,9 @@ In recent years, multiple-choice Visual Question Answering (VQA) has become topi
 
 ### Pre-extraced features
 [Video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
+  
+### Train
+The training set of NExT-OOD is the same as NExT-QA, and can be found in [here](https://drive.google.com/file/d/1JiPkdxUZ6shGSDdK7m29BaU_hrqe1srO/view?usp=sharing).
 
 
 
