@@ -5,7 +5,7 @@ In recent years, multiple-choice Visual Question Answering (VQA) has become topi
 
 ![img](statistic.png)
 
-
+![img](example.png)
 
 
 ## NExT-OOD-VQA
@@ -14,11 +14,6 @@ The NExT-OOD-VQA dataset is built to simultaneously validate models’ generaliz
 ![img](distribution.png)
 
 ### [Resources](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
-
-## NExT-OOD-VQA auto
-The NExT-OOD-VQA auto dataset is also built to simultaneously validate models’ generalization ability against the VA bias and QA bias. Different from the NExT-OOD-VQA, this dataset is larger and is constructed in an automatic manner.
-
-### [Resources](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
 
 ## NExT-OOD-VA
 The NExT-OOD-VA dataset is built to validate models’ generalization ability against the VA bias.
@@ -29,6 +24,11 @@ The NExT-OOD-VA dataset is built to validate models’ generalization ability ag
 The NExT-OOD-QA dataset is built to validate models’ generalization ability against the QA bias.
 
 ### [Resources](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
+
+## NExT-OOD-VQA auto
+The NExT-OOD-VQA auto dataset is also built to simultaneously validate models’ generalization ability against the VA bias and QA bias. Different from the NExT-OOD-VQA, this dataset is larger and is constructed in an automatic manner.
+
+### [Resources](https://drive.google.com/drive/folders/1Jm3fm8kexrHqLcheVybso6TUgbTQRiO6?usp=sharing)
 
 ## Other Resources
 
