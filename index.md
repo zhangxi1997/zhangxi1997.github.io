@@ -17,29 +17,37 @@ The NExT-OOD-VQA auto dataset is also built to simultaneously validate models’
 
 ![img](distribution.png)
 
-### [Resources](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
+### Please download it from [Resources](https://drive.google.com/drive/folders/1As-cD-jE_S9j1Pk_CbUmKMAHFKPlLrZJ?usp=sharing)
 
 ## NExT-OOD-VA
 The NExT-OOD-VA dataset is built to validate models’ generalization ability against the VA bias.
 
-### [Resources](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
+### Please download it from [Resources](https://drive.google.com/drive/folders/1set0QRbQcDYcEBRyTDyLNI9GrDhF2meT?usp=sharing)
 
 ## NExT-OOD-QA
 The NExT-OOD-QA dataset is built to validate models’ generalization ability against the QA bias.
 
-### [Resources](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
+### Please download it from [Resources](https://drive.google.com/drive/folders/18CNV5M2awf6pKSkjKQ2wA0NFfr1uor3Q?usp=sharing)
 
 ## Other Resources
 
-[Pre-extracted video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
+·[Pre-extracted video features](https://drive.google.com/file/d/1rS5X_t_VSDF4uP3HL1gPQ0ZgWIEuglgk/view?usp=sharing)
 
-[Pre-extracted BERT features](https://drive.google.com/file/d/11C7ANtHlP6szJmoJ2Z9x2VAHdFgASMDI/view?usp=sharing)
+·[Pre-extracted BERT features](https://drive.google.com/file/d/11C7ANtHlP6szJmoJ2Z9x2VAHdFgASMDI/view?usp=sharing)
 
 The training set of NExT-OOD is the same as NExT-QA, and can be found in [here](https://drive.google.com/drive/folders/1iLiKq_U_11E2tUJQouPS_MT_RAJbUF5q?usp=sharing).
 
 ## TEAM
 ![img](team2.png)
 
+```
+@article{zhang2023nextoood,
+    author    = {Zhang, Xi and Zhang, Feifei and Xu, Changsheng},
+    title     = {NExT-OOD: Overcoming Dual Multiple-choice VQA Biases},
+    booktitle = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    year      = {2023}
+}
+```
 
 
 
