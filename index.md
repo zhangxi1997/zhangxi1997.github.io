@@ -8,7 +8,8 @@ In recent years, multiple-choice Visual Question Answering (VQA) has become topi
 ![img](sample.png)
 
 
-## Code: 
+## Paper and Code: 
+The paper is comming soon.
 We have released our NExT-OOD's evaluation code and our proposed debiasing method on **[Github]**(https://github.com/zhangxi1997/NExT-OOD).
 
 ## NExT-OOD-VQA
